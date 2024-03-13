@@ -1,5 +1,5 @@
 
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZybnU1dTlzNDFoN3RsZDQzeGg4b3RxNGc5OWplampqOXpwMnBpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U1iFjsL5EaLgk/giphy.gif)
+![MasterHead](https://i.pinimg.com/originals/cc/c8/39/ccc839332d89d6150db61b7e47da89f1.gif)
 
 <h1 align="center">Hi 👋, I'm Nietzsche</h1>
 <h3 align="left">Connect with me:</h3>
