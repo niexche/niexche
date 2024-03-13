@@ -10,7 +10,7 @@
 
 <a href="https://twitter.com/iksapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iksapp" height="30" width="40" /></a>---------------------> <img align="center" height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ2ZzE5OGViZmJ4OHBnY3pmdmVvMjl6M2wzb3V4NmdyaTducjM0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QHLYZFJgjsFq/giphy.gif"/>
 
-
+<img align="center" height="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdsZWhkemRyd2I3Z2Q2MGxnYmpnaTJiaHE2YnEyaW5kZGlxdDZvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif"/>
 
 
 
@@ -31,7 +31,7 @@
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><img align="center" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmcWUwaGFkbW1lczJoYzBjbHBxZjMyeDdhdDQycGdzamwyOGhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtB2l3jHiJsFa/giphy.gif"/> </p>
 
-<img align="center" height="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdsZWhkemRyd2I3Z2Q2MGxnYmpnaTJiaHE2YnEyaW5kZGlxdDZvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif"/>
+
 
 
 <img align="center" height="447" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FxbDZnaHhmaG83eGZ5YzZycm85eG56ajhlaHR2NmRhZzhqemxpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjgqYjVkzfQ9a/giphy.gif"/>
