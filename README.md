@@ -6,7 +6,7 @@
 <img align="center" height="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNlMXozZXBwMXlhbng4d29oZDZkanhrazZ1OGcwNnR1ZW1mYWV5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Connect%20me&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=50&fontAlign=18)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=Contact%20me&reversal=false&animation=blink&stroke=00FF00&fontColor=00000&strokeWidth=2&fontSize=50&fontAlign=18)
 
 <img align="center" height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ2ZzE5OGViZmJ4OHBnY3pmdmVvMjl6M2wzb3V4NmdyaTducjM0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QHLYZFJgjsFq/giphy.gif"/> ===============> <a href="https://twitter.com/iksapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iksapp" height="30" width="40" /> TWİTTER </a>
 
